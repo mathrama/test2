@@ -20,6 +20,7 @@ package atmapplicantion;
 /**
  *
  * @author Ramanpreet Matharu
+ * @author jagdeep singh
  */
 public class AtmApplicantion {
 
